@@ -1,0 +1,36 @@
+name: swadsphere
+description: A mini Flutter recipe app using Spoonacular API
+publish_to: 'none' # Remove this if you want to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Networking
+  http: ^1.2.2
+
+  # State management
+  provider: ^6.1.2
+
+  # Cupertino icons (optional)
+  cupertino_icons: ^1.0.8
+
+  # ADD THESE TWO LINES FOR FIREBASE
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment this if you want to use custom assets later
+  # assets:
+  #   - assets/images/

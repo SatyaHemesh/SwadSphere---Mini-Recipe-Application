@@ -1,0 +1,32 @@
+# === Flutter / Dart ===
+build/
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# === Platform specific folders ===
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# === IDE / System files ===
+.vscode/
+.idea/
+*.iml
+*.log
+
+# === Firebase & secrets ===
+firebase_app_id_file.json
+google-services.json
+GoogleService-Info.plist
+
+# === Others ===
+*.lock
+*.tmp
+*.DS_Store
