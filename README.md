@@ -113,13 +113,16 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## 🧑‍💻 Author
-
-**Routhu Satya Hemesh**  
+## 🧑‍💻 Team Members
+## 🧑‍💻 Project Developed by Team of Four:
+**Routhu Satya Hemesh**  [GitHub Profile](https://github.com/SatyaHemesh)
+**Vasala Akshaya**  [GitHub Profile](https://github.com/Akshaya-1826/)
+**N.A. Tanish Namadevan**  [GitHub Profile Link](https://github.com/Tedfeb17)
+**A. Vinay Raj**  [GitHub Profile Link](https://github.com/vinay-VR)
 🎓 B.Tech CSE, ACE Engineering College (Class of 2027)  
 💻 Passionate about Flutter, Web Development, and UI Design  
 🌐 [Portfolio Website](https://satyahemesh.netlify.app)  
-📧 Email: [satyahemesh2006@gmail.com](mailto:satyahemesh2006@gmail.com)  
+📧 Email (Team Lead): [satyahemesh2006@gmail.com](mailto:satyahemesh2006@gmail.com)  
 
 ---
 
