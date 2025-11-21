@@ -161,5 +161,5 @@ See the **LICENSE** file for more details.
 
 ---
 
-> _“Good food is the foundation of genuine happiness.” — Auguste Escoffier_ 🍲
+> _“Good food is the foundation of genuine happiness.” — Auguste Escoffier_ 🍲 
 
